@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @spaceycatto
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me dont
-- 😄 Pronouns: no
-- ⚡ Fun fact: No
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Engineering with specialisation in Software Testing
+- 💞️ I’m looking to collaborate on testing related projects
+- 📫 How to reach me
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Venus' density is less than water!!!!!
 
 <!---
 spaceycatto/spaceycatto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
