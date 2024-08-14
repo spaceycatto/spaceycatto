@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spaceycatto
-- 👀 I’m interested in boys
+- 👀 I’m interested in art
 - 🌱 I’m currently learning Engineering with specialisation in Software Testing
 - 💞️ I’m looking to collaborate on testing related projects
 - 📫 How to reach me
