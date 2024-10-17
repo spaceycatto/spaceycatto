@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spaceycatto
 - 👀 I’m interested in art
-- 🌱 I’m currently learning Engineering with specialisation in Software Testing
+- 🌱 I’m currently learning IT Engineering
 - 💞️ I’m looking to collaborate on testing related projects
 - 📫 How to reach me
 - 😄 Pronouns: she/her
